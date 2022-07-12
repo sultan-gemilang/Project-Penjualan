@@ -1,0 +1,15 @@
+D:\Github Repository\Shared Repo\Project-Penjualan\bin\Debug\net6.0\Project-Penjualan.exe
+D:\Github Repository\Shared Repo\Project-Penjualan\bin\Debug\net6.0\Project-Penjualan.deps.json
+D:\Github Repository\Shared Repo\Project-Penjualan\bin\Debug\net6.0\Project-Penjualan.runtimeconfig.json
+D:\Github Repository\Shared Repo\Project-Penjualan\bin\Debug\net6.0\Project-Penjualan.dll
+D:\Github Repository\Shared Repo\Project-Penjualan\bin\Debug\net6.0\Project-Penjualan.pdb
+D:\Github Repository\Shared Repo\Project-Penjualan\obj\Debug\net6.0\Project-Penjualan.csproj.AssemblyReference.cache
+D:\Github Repository\Shared Repo\Project-Penjualan\obj\Debug\net6.0\Project-Penjualan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repository\Shared Repo\Project-Penjualan\obj\Debug\net6.0\Project-Penjualan.AssemblyInfoInputs.cache
+D:\Github Repository\Shared Repo\Project-Penjualan\obj\Debug\net6.0\Project-Penjualan.AssemblyInfo.cs
+D:\Github Repository\Shared Repo\Project-Penjualan\obj\Debug\net6.0\Project-Penjualan.csproj.CoreCompileInputs.cache
+D:\Github Repository\Shared Repo\Project-Penjualan\obj\Debug\net6.0\Project-Penjualan.dll
+D:\Github Repository\Shared Repo\Project-Penjualan\obj\Debug\net6.0\refint\Project-Penjualan.dll
+D:\Github Repository\Shared Repo\Project-Penjualan\obj\Debug\net6.0\Project-Penjualan.pdb
+D:\Github Repository\Shared Repo\Project-Penjualan\obj\Debug\net6.0\Project-Penjualan.genruntimeconfig.cache
+D:\Github Repository\Shared Repo\Project-Penjualan\obj\Debug\net6.0\ref\Project-Penjualan.dll
